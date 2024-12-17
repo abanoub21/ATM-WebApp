@@ -1,0 +1,23 @@
+﻿
+@using ATMApplication.Application.Dto
+@model List<AccountDto>
+<div class="container">
+
+	<table class="table table-striped text-center">
+		<thead class="thead-dark">	
+			<tr><th>Id</th><th>Name</th><th>Balance</th></tr>
+		</thead>
+
+		<tbody>
+
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td>@item.Id</td>
+					<td>@item.UserName</td>
+					<td>@item.Balance</td>
+				</tr>
+			}
+		</tbody>
+
+	</table>

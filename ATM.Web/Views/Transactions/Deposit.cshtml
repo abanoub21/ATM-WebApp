@@ -1,0 +1,28 @@
+﻿@using ATMApplication.Application
+@model ATMApplication.Application.Dto.AccountDto
+@{
+    Layout = null;
+}
+<link href="~/css/deposit.css" rel="stylesheet" />
+
+<div class="container">
+    <h1>ATM Transactions</h1>
+     <form asp-action="Deposit" asp-controller="Transactions" method="post">
+         
+    <div class="transaction-form">
+        <label>Account Number:</label>
+        <input type="text" id="account-number" asp-for="Id" placeholder="Enter Account Number">
+
+        <label>Amount:</label>
+        <input type="number" id="amount" asp-for="Balance" placeholder="Enter Amount">
+
+        <div class="buttons">
+            <button id="deposit-btn">Deposit</button>
+
+           @*  <button id="withdraw-btn">Withdraw</button> *@
+        </div>
+    </div>
+    </form>
+  
+</div>
+

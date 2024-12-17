@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ATMApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.application\\contract\\iasyncrepsoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|solutionrelative:atmapplication.application\\contract\\iasyncrepsoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.application\\dto\\useraccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|solutionrelative:atmapplication.application\\dto\\useraccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.application\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|solutionrelative:atmapplication.application\\dto\\accountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.application\\atm.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|solutionrelative:atmapplication.application\\atm.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|c:\\users\\user\\source\\repos\\atmapplication\\atm.web\\views\\transactions\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|solutionrelative:atm.web\\views\\transactions\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.application\\services\\accountappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|solutionrelative:atmapplication.application\\services\\accountappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atm.web\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|solutionrelative:atm.web\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.application\\contract\\iaccountappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|solutionrelative:atmapplication.application\\contract\\iaccountappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B924C3-28B6-4D94-AF43-CCF5F679E823}|ATMApplication.Infrastracture\\ATM.Infrastracture.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.infrastracture\\asyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B924C3-28B6-4D94-AF43-CCF5F679E823}|ATMApplication.Infrastracture\\ATM.Infrastracture.csproj|solutionrelative:atmapplication.infrastracture\\asyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atm.web\\views\\transactions\\deposit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|solutionrelative:atm.web\\views\\transactions\\deposit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atm.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|solutionrelative:atm.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atm.web\\wwwroot\\css\\deposit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|solutionrelative:atm.web\\wwwroot\\css\\deposit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atm.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|solutionrelative:atm.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atm.web\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{81222AFB-D62F-49FC-B8CF-1FDFE3C83172}|ATM.Web\\ATM.Web.csproj|solutionrelative:atm.web\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B924C3-28B6-4D94-AF43-CCF5F679E823}|ATMApplication.Infrastracture\\ATM.Infrastracture.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.infrastracture\\atm.infrastracture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39B924C3-28B6-4D94-AF43-CCF5F679E823}|ATMApplication.Infrastracture\\ATM.Infrastracture.csproj|solutionrelative:atmapplication.infrastracture\\atm.infrastracture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\Problem_Solving\\Problem_Solving\\SameCase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04645C4-E2AB-4F57-B59E-AA9ACC49B382}|ATMApplication.Domain\\ATM.Domain.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04645C4-E2AB-4F57-B59E-AA9ACC49B382}|ATMApplication.Domain\\ATM.Domain.csproj|solutionrelative:atmapplication.domain\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299E4020-CFA3-4675-BFED-7C063FA6AE9F}|WebApplication1\\ATM.API.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299E4020-CFA3-4675-BFED-7C063FA6AE9F}|WebApplication1\\ATM.API.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299E4020-CFA3-4675-BFED-7C063FA6AE9F}|WebApplication1\\ATM.API.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\webapplication1\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299E4020-CFA3-4675-BFED-7C063FA6AE9F}|WebApplication1\\ATM.API.csproj|solutionrelative:webapplication1\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299E4020-CFA3-4675-BFED-7C063FA6AE9F}|WebApplication1\\ATM.API.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299E4020-CFA3-4675-BFED-7C063FA6AE9F}|WebApplication1\\ATM.API.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.application\\contract\\iuseraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|solutionrelative:atmapplication.application\\contract\\iuseraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.application\\profilemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|solutionrelative:atmapplication.application\\profilemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.application\\services\\useraccountappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FAD8FB-B58B-48CD-AF90-A554232DF078}|ATMApplication.Application\\ATM.Application.csproj|solutionrelative:atmapplication.application\\services\\useraccountappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299E4020-CFA3-4675-BFED-7C063FA6AE9F}|WebApplication1\\ATM.API.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\webapplication1\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{299E4020-CFA3-4675-BFED-7C063FA6AE9F}|WebApplication1\\ATM.API.csproj|solutionrelative:webapplication1\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B924C3-28B6-4D94-AF43-CCF5F679E823}|ATMApplication.Infrastracture\\ATM.Infrastracture.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.infrastracture\\migrations\\20240929001454_ff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B924C3-28B6-4D94-AF43-CCF5F679E823}|ATMApplication.Infrastracture\\ATM.Infrastracture.csproj|solutionrelative:atmapplication.infrastracture\\migrations\\20240929001454_ff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B924C3-28B6-4D94-AF43-CCF5F679E823}|ATMApplication.Infrastracture\\ATM.Infrastracture.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.infrastracture\\migrations\\20240711022822_setfapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B924C3-28B6-4D94-AF43-CCF5F679E823}|ATMApplication.Infrastracture\\ATM.Infrastracture.csproj|solutionrelative:atmapplication.infrastracture\\migrations\\20240711022822_setfapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39B924C3-28B6-4D94-AF43-CCF5F679E823}|ATMApplication.Infrastracture\\ATM.Infrastracture.csproj|C:\\Users\\user\\source\\repos\\ATMApplication\\atmapplication.infrastracture\\atmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B924C3-28B6-4D94-AF43-CCF5F679E823}|ATMApplication.Infrastracture\\ATM.Infrastracture.csproj|solutionrelative:atmapplication.infrastracture\\atmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Dto\\AccountDto.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Application\\Dto\\AccountDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Dto\\AccountDto.cs",
+              "RelativeToolTip": "ATMApplication.Application\\Dto\\AccountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:56:26.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Infrastracture\\AsyncRepository.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Infrastracture\\AsyncRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Infrastracture\\AsyncRepository.cs",
+              "RelativeToolTip": "ATMApplication.Infrastracture\\AsyncRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:46:19.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAsyncRepsoitory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Contract\\IAsyncRepsoitory.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Application\\Contract\\IAsyncRepsoitory.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Contract\\IAsyncRepsoitory.cs",
+              "RelativeToolTip": "ATMApplication.Application\\Contract\\IAsyncRepsoitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:46:48.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\Views\\Transactions\\Result.cshtml",
+              "RelativeDocumentMoniker": "ATM.Web\\Views\\Transactions\\Result.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\Views\\Transactions\\Result.cshtml",
+              "RelativeToolTip": "ATM.Web\\Views\\Transactions\\Result.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:45:55.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "ATM.Web\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "ATM.Web\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wCQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:23:55.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ATM.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\ATM.Application.csproj",
+              "RelativeDocumentMoniker": "ATMApplication.Application\\ATM.Application.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\ATM.Application.csproj",
+              "RelativeToolTip": "ATMApplication.Application\\ATM.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T00:15:19.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Dto\\UserAccountDto.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Application\\Dto\\UserAccountDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Dto\\UserAccountDto.cs",
+              "RelativeToolTip": "ATMApplication.Application\\Dto\\UserAccountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T00:16:50.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAccountAppService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Contract\\IAccountAppService.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Application\\Contract\\IAccountAppService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Contract\\IAccountAppService.cs",
+              "RelativeToolTip": "ATMApplication.Application\\Contract\\IAccountAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:55:45.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountAppService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Services\\AccountAppService.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Application\\Services\\AccountAppService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Services\\AccountAppService.cs",
+              "RelativeToolTip": "ATMApplication.Application\\Services\\AccountAppService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA/wCUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:43:57.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ATM.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\Program.cs",
+              "RelativeToolTip": "ATM.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:48:05.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Deposit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\Views\\Transactions\\Deposit.cshtml",
+              "RelativeDocumentMoniker": "ATM.Web\\Views\\Transactions\\Deposit.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\Views\\Transactions\\Deposit.cshtml",
+              "RelativeToolTip": "ATM.Web\\Views\\Transactions\\Deposit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T22:44:50.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserAccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\WebApplication1\\Controllers\\UserAccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserAccountController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\WebApplication1\\Controllers\\UserAccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserAccountController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T01:38:55.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:20:10.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Domain\\Account.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Domain\\Account.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Domain\\Account.cs",
+              "RelativeToolTip": "ATMApplication.Domain\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:51:54.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ATM.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ATM.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T22:20:36.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "deposit.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\wwwroot\\css\\deposit.css",
+              "RelativeDocumentMoniker": "ATM.Web\\wwwroot\\css\\deposit.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\wwwroot\\css\\deposit.css",
+              "RelativeToolTip": "ATM.Web\\wwwroot\\css\\deposit.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T22:45:34.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:13:53.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "ATM.Web\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATM.Web\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "ATM.Web\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T22:22:00.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Contract\\IUserAccountService.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Application\\Contract\\IUserAccountService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Contract\\IUserAccountService.cs",
+              "RelativeToolTip": "ATMApplication.Application\\Contract\\IUserAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T00:22:17.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ATM.Infrastracture.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Infrastracture\\ATM.Infrastracture.csproj",
+              "RelativeDocumentMoniker": "ATMApplication.Infrastracture\\ATM.Infrastracture.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Infrastracture\\ATM.Infrastracture.csproj",
+              "RelativeToolTip": "ATMApplication.Infrastracture\\ATM.Infrastracture.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T02:03:42.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProfileMapper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\ProfileMapper.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Application\\ProfileMapper.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\ProfileMapper.cs",
+              "RelativeToolTip": "ATMApplication.Application\\ProfileMapper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:52:40.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserAccountAppService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Services\\UserAccountAppService.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Application\\Services\\UserAccountAppService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Application\\Services\\UserAccountAppService.cs",
+              "RelativeToolTip": "ATMApplication.Application\\Services\\UserAccountAppService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAEwBoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:58:11.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\WebApplication1\\libman.json",
+              "RelativeDocumentMoniker": "WebApplication1\\libman.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\WebApplication1\\libman.json",
+              "RelativeToolTip": "WebApplication1\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T19:26:20.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240929001454_ff.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Infrastracture\\Migrations\\20240929001454_ff.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Infrastracture\\Migrations\\20240929001454_ff.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Infrastracture\\Migrations\\20240929001454_ff.cs",
+              "RelativeToolTip": "ATMApplication.Infrastracture\\Migrations\\20240929001454_ff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T00:14:54.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SameCase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Problem_Solving\\Problem_Solving\\SameCase.cs",
+              "RelativeDocumentMoniker": "..\\Problem_Solving\\Problem_Solving\\SameCase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Problem_Solving\\Problem_Solving\\SameCase.cs",
+              "RelativeToolTip": "..\\Problem_Solving\\Problem_Solving\\SameCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:12:20.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240711022822_setfapp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Infrastracture\\Migrations\\20240711022822_setfapp.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Infrastracture\\Migrations\\20240711022822_setfapp.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Infrastracture\\Migrations\\20240711022822_setfapp.cs",
+              "RelativeToolTip": "ATMApplication.Infrastracture\\Migrations\\20240711022822_setfapp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T02:28:23.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ATMContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Infrastracture\\ATMContext.cs",
+              "RelativeDocumentMoniker": "ATMApplication.Infrastracture\\ATMContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\ATMApplication\\ATMApplication.Infrastracture\\ATMContext.cs",
+              "RelativeToolTip": "ATMApplication.Infrastracture\\ATMContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:54:22.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

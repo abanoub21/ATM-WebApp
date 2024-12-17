@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\bin\Debug\net6.0\ATMApplication.Application.deps.json
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\bin\Debug\net6.0\ATMApplication.Application.dll
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\bin\Debug\net6.0\ATMApplication.Application.pdb
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\bin\Debug\net6.0\ATMApplication.Domain.dll
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\bin\Debug\net6.0\ATMApplication.Domain.pdb
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\obj\Debug\net6.0\ATMApplication.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\obj\Debug\net6.0\ATMApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\obj\Debug\net6.0\ATMApplication.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\obj\Debug\net6.0\ATMApplication.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\obj\Debug\net6.0\ATMApplication.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\obj\Debug\net6.0\ATMAppli.DE441089.Up2Date
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\obj\Debug\net6.0\ATMApplication.Application.dll
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\obj\Debug\net6.0\refint\ATMApplication.Application.dll
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\obj\Debug\net6.0\ATMApplication.Application.pdb
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Application\obj\Debug\net6.0\ref\ATMApplication.Application.dll

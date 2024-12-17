@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Domain\bin\Debug\net6.0\ATMApplication.Domain.deps.json
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Domain\bin\Debug\net6.0\ATMApplication.Domain.dll
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Domain\bin\Debug\net6.0\ATMApplication.Domain.pdb
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Domain\obj\Debug\net6.0\ATMApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Domain\obj\Debug\net6.0\ATMApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Domain\obj\Debug\net6.0\ATMApplication.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Domain\obj\Debug\net6.0\ATMApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Domain\obj\Debug\net6.0\ATMApplication.Domain.dll
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Domain\obj\Debug\net6.0\refint\ATMApplication.Domain.dll
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Domain\obj\Debug\net6.0\ATMApplication.Domain.pdb
+C:\Users\user\source\repos\ATMApplication\ATMApplication.Domain\obj\Debug\net6.0\ref\ATMApplication.Domain.dll
